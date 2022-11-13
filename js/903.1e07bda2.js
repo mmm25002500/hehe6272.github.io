@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkminxuan"]=self["webpackChunkminxuan"]||[]).push([[903],{7903:function(n,u,e){function r(n,u){return" hi "}e.r(u),e.d(u,{default:function(){return i}});var t=e(89);const a={},c=(0,t.Z)(a,[["render",r]]);var i=c}}]);
+//# sourceMappingURL=903.1e07bda2.js.map
